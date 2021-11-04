@@ -61,7 +61,7 @@
       <div class="logo me-auto">
         <h6><a href="https://www.upi.edu/"><img src="assets/img/LOGO-UPI.jpg"></a><a>&ensp;Sistem Informasi Kelautan</a></h6>
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <!-- <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav id="navbar" class="navbar">
