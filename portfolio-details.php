@@ -59,9 +59,9 @@
     <div class="container d-flex align-items-center justify-content-between">
 
       <div class="logo">
-        <h1><a href="index.html">My<span>Biz</span></a></h1>
+        <h1><a href="index.php">My<span>Biz</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <!-- <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav id="navbar" class="navbar">
@@ -105,7 +105,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Portfolio Details</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Portfolio Details</li>
           </ol>
         </div>
